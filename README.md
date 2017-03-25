@@ -1,3 +1,5 @@
 2017/03/22
 
-只有一条路可走
+MDN example
+
+Only one way out.
