@@ -1,0 +1,5 @@
+1. ËØ²Ä http://doc.babylonjs.com/babylon101/materials
+
+	1. http://www.babylonjs-playground.com/#20OAV9#141	Diffuse Color  
+
+	2. http://www.babylonjs-playground.com/#20OAV9#14	Ambient Color
